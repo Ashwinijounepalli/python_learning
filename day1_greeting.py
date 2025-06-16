@@ -13,3 +13,13 @@ print(f"hello {name} your age after 5 years is {age+5} years old")
 city=input("Enter ou favourite city:")
 color=input("Enter ou favourite color:")
 print(f"In {city} {color} looks beautiful")
+
+#Your name
+#Your favorite food
+#Your dream city
+#"Hi [name], you love [food] and dream of visiting [city]!"
+name=input("Enter Your Name: ")
+food=input("Enter your Favorite Food: ")
+city=input("Enter your dream city:")
+
+print(f"Hi {name}, you love {food} and dream of visiting {city}!")
